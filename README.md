@@ -2,26 +2,23 @@
 
 <h1><a href="https://2kabhishek.github.io/wordsearcher">WordSearcher</a></h1>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/wordsearcher?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/WordSearcher/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/WordSearcher?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/wordsearcher?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/WordSearcher/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/WordSearcher?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/wordsearcher?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/WordSearcher/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/WordSearcher?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/wordsearcher?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/WordSearcher/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/WordSearcher?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/wordsearcher?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/WordSearcher/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/WordSearcher?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/wordsearcher/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/wordsearcher?style=plastic&color=f0f&label=Contributors"> </a>
-
-<a href="https://github.com/2KAbhishek?tab=followers">
-<img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
+<a href="https://github.com/2KAbhishek/WordSearcher/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/WordSearcher?style=flat&color=e06c75&label="> </a>
 
 <h3>Word searching with JavaFX 🔤🔍</h3>
 
